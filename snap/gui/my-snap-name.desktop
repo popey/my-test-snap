@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=my-snap-name
+GenericName=Test
+Comment=Just a test
+Exec=my-snap-name
+Icon=${SNAP}/meta/gui/my-snap-name.png
+Terminal=false
+Type=Application
